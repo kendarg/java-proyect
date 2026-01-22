@@ -11,7 +11,7 @@ public class poo1 {
     }
 }
 class Persona{
-  // uso de encapsulamiento conmetodo private
+  // uso de encapsulamiento con metodo private
 
   private String nombre;
   private int edad;
@@ -56,4 +56,5 @@ class Carrera extends Persona{
     System.out.println("Tu carrera es: " + getinfo());
     System.out.println("------------------------");
   }
+
 }
