@@ -23,6 +23,7 @@ void mostrar(){
 }
 
 }
+// se usa extends para crear las herencias de una clase
 class Carrera extends Persona{
   String info;
   public Carrera(String nombre, int edad, String info){
@@ -38,4 +39,5 @@ class Carrera extends Persona{
   System.out.println("Tu carrera es: " + info);
 }
 }
+
 
