@@ -1,6 +1,5 @@
 package com.kendarg.biblioteca.app;
 import com.kendarg.biblioteca.model.Libro;
-;
 public class Main {
     public static void main(String[] args){
         Libro l1 = new Libro(0001, "Carta en carta", 50, "Ana Maria Machado", false);
