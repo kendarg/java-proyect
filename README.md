@@ -13,7 +13,7 @@ Incluye ejercicios prácticos de estructuras, ciclos y lógica de programación.
 ---
 
 ## 📚 Funcionalidades
--- Lectura de datos desde consola.
+- - Lectura de datos desde consola.
 - Ejercicios con condicionales y bucles.
 - Manejo de arreglos y clases básicas.
 
